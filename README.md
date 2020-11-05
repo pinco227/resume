@@ -18,13 +18,17 @@
 
 ## Technologies used
 - Workspace
-  * Ubuntu 20 as OS
-  * Visual Studio Code as IDE
+  * [Ubuntu20.04](https://ubuntu.com/) as Operating System
+  * [Visual Studio Code](https://code.visualstudio.com/) as Integrated Development Environment
 - Code
-  * HTML5
-  * CSS3
+  * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  * [CSS3](https://en.wikipedia.org/wiki/CSS)
 - Framework
-  * Bootstrap4
+  * [Bootstrap4](https://getbootstrap.com/)
+- Version Control
+  * [Git](https://git-scm.com/) as Version Control System
+  * [Github](https://www.github.com) for repository hosting
+  * [Commitizen](https://github.com/commitizen/cz-cli) for commit linting
 
 ## Issues/Solutions
 ### Issues found
@@ -40,5 +44,7 @@
 * [Google Fonts](https://fonts.google.com/)
 
 ## Resources
+* [CodeInstitute](https://codeinstitute.net/)
 
 ## Aknowledgements
+* [CodeInstitute Course Platform](https://codeinstitute.net/)
