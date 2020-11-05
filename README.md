@@ -17,6 +17,14 @@
 ## UX
 
 ## Technologies used
+- Workspace
+  * Ubuntu 20 as OS
+  * Visual Studio Code as IDE
+- Code
+  * HTML5
+  * CSS3
+- Framework
+  * Bootstrap4
 
 ## Issues/Solutions
 ### Issues found
@@ -27,6 +35,9 @@
 ## Deploying
 
 ## Credentials
+* [Bootstrap4](https://getbootstrap.com) has been used as main framework
+* [FontAwesome](https://fontawesome.com) for icons
+* [Google Fonts](https://fonts.google.com/)
 
 ## Resources
 
