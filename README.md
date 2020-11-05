@@ -42,6 +42,7 @@
 * [Bootstrap4](https://getbootstrap.com) has been used as main framework
 * [FontAwesome](https://fontawesome.com) for icons
 * [Google Fonts](https://fonts.google.com/)
+* [Hover.css](https://github.com/IanLunn/Hover)
 
 ## Resources
 * [CodeInstitute](https://codeinstitute.net/)
