@@ -18,6 +18,21 @@
     background-color: #525252;
 }
 
+/* --------------- Special paddings/margins/text --------------- */
+h1,h2,h3,h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Exo 2", sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
 /* -------------------------- Heading -------------------------- */
 header {
     margin: 0;
@@ -144,4 +159,11 @@ header {
 .hvr-sweep-to-bottom:hover:before, .hvr-sweep-to-bottom:focus:before, .hvr-sweep-to-bottom:active:before {
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
+}
+
+/* -------------------------- Footer -------------------------- */
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
 }
