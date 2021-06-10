@@ -1,5 +1,11 @@
 # [Resume Project](https://pinco227.github.io/resume/)
 
+[![Screenshot](https://github.com/pinco227/resume/blob/main/screenshot.png)](https://pinco227.github.io/resume/)
+
+Code Institute Front-End User Centric Mini Walk-Through Project: Resume.
+
+[DEMO](https://pinco227.github.io/resume/)
+
 ## Table of Contents
 - [Resume Project](#resume-project)
   - [Table of Contents](#table-of-contents)
